@@ -11,6 +11,7 @@ CONSTANTS = {
     "λ_CuKα1": 1.54059e-10, # m
     "λ_CuKα2": 1.54443e-10, # m
     "λ_MoKα": 7.093e-11,    # m  (Mo Kα ≈ 0.7093 Å)
+    "N_A": 6.022_140_76e23,     # Avogadro's number, 1/mol (exact)
 }
 
 CONSTANT_NOTES = {
