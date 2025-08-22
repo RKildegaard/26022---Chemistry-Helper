@@ -1,0 +1,112 @@
+{
+  "water (H2O)": {
+    "formula": "H2O",
+    "c_solid": 2090.0,
+    "c_liquid": 4184.0,
+    "c_gas": 1996.0,
+    "H_fus": 333550.0,
+    "H_vap": 2256000.0,
+    "T_melt_C": 0.0,
+    "T_boil_C": 100.0
+  },
+  "ethanol (CH3OH)": {
+    "formula": "C2H5OH",
+    "c_solid": 1600.0,
+    "c_liquid": 2440.0,
+    "c_gas": 1430.0,
+    "H_fus": 108000.0,
+    "H_vap": 840000.0,
+    "T_melt_C": -114.1,
+    "T_boil_C": 78.37
+  },
+  "methanol (CH3OH)": {
+    "formula": "CH3OH",
+    "c_solid": 1500.0,
+    "c_liquid": 2510.0,
+    "c_gas": 1500.0,
+    "H_fus": 100000.0,
+    "H_vap": 1100000.0,
+    "T_melt_C": -97.6,
+    "T_boil_C": 64.7
+  },
+  "acetone (C3H6O)": {
+    "formula": "C3H6O",
+    "c_solid": 1300.0,
+    "c_liquid": 2180.0,
+    "c_gas": 1200.0,
+    "H_fus": 98000.0,
+    "H_vap": 500000.0,
+    "T_melt_C": -94.7,
+    "T_boil_C": 56.05
+  },
+  "benzene (C6H6)": {
+    "formula": "C6H6",
+    "c_solid": 1200.0,
+    "c_liquid": 1740.0,
+    "c_gas": 1100.0,
+    "H_fus": 126000.0,
+    "H_vap": 394000.0,
+    "T_melt_C": 5.5,
+    "T_boil_C": 80.1
+  },
+  "ammonia (NH3)": {
+    "formula": "NH3",
+    "c_solid": 2300.0,
+    "c_liquid": 4700.0,
+    "c_gas": 2080.0,
+    "H_fus": 332000.0,
+    "H_vap": 1370000.0,
+    "T_melt_C": -77.7,
+    "T_boil_C": -33.34
+  },
+  "Sodium chloride (NaCl)": {
+    "formula": "NaCl",
+    "c_solid": 864.0,
+    "c_liquid": 850.0,
+    "c_gas": 820.0,
+    "H_fus": 28160.0,
+    "H_vap": 502000.0,
+    "T_melt_C": 801.0,
+    "T_boil_C": 1413.0
+  },
+  "Potassium chloride (KCl)": {
+    "formula": "KCl",
+    "c_solid": 860.0,
+    "c_liquid": 900.0,
+    "c_gas": 800.0,
+    "H_fus": 25800.0,
+    "H_vap": 437000.0,
+    "T_melt_C": 770.0,
+    "T_boil_C": 1420.0
+  },
+  "Magnesium chloride (MgCl2)": {
+    "formula": "MgCl2",
+    "c_solid": 850.0,
+    "c_liquid": 1100.0,
+    "c_gas": 900.0,
+    "H_fus": 35000.0,
+    "H_vap": 641000.0,
+    "T_melt_C": 714.0,
+    "T_boil_C": 1412.0
+  },
+  "Calcium oxide (CaO)": {
+    "formula": "CaO",
+    "c_solid": 750.0,
+    "c_liquid": 1100.0,
+    "c_gas": 1000.0,
+    "H_fus": 63700.0,
+    "H_vap": 515000.0,
+    "T_melt_C": 2572.0,
+    "T_boil_C": 2850.0
+  },
+  "Aluminum oxide (Al2O3)": {
+    "formula": "Al2O3",
+    "c_solid": 880.0,
+    "c_liquid": 1200.0,
+    "c_gas": 1100.0,
+    "H_fus": 1093000.0,
+    "H_vap": 4800000.0,
+    "T_melt_C": 2072.0,
+    "T_boil_C": 2977.0
+  }
+}
